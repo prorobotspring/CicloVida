@@ -1,0 +1,14 @@
+[2013Oct01 08:18:10,319][INFO ][][configurarLogger BSSIntLogger.java:67][APLICACION: CicloVida - VERSION: 1.0]
+[2013Oct01 08:18:10,337][INFO ][][configurarLogger BSSIntLogger.java:69][DESCRIPCION: Servicios de Integracion - CicloVida]
+[2013Oct01 08:18:10,357][INFO ][1380631690356][doPost SolicitudServlet.java:77][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_IN>
+	<Login>String</Login>
+	<Channel>CONTROM</Channel>
+</RTBS_IN>]
+[2013Oct01 08:18:10,910][INFO ][1380631690356][execute CicloVidaPrepagoDelegator.java:159][Se inicia el ciclo de notificación]
+[2013Oct01 08:18:13,628][INFO ][1380631690356][execute CicloVidaPrepagoDelegator.java:211][Finalizo ciclo de notificación, se proceso un total de 10 registros]
+[2013Oct01 08:18:13,730][INFO ][1380631690356][doPost SolicitudServlet.java:83][Response Recibido: <?xml version="1.0" encoding="UTF-8" ?>
+<response>
+	<codigo>0</codigo>
+	<mensaje>Proceso completado satisfactoriamente</mensaje>
+</response>]
